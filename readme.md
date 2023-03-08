@@ -17,4 +17,18 @@ Features:
       - [ ] Email Field
       - [ ] Confirm-email Field
   - [ ] Trading Hub page
+    - [ ] Balance
+    - [ ] Net Worth
+    - [ ] Stock Price Graph Panel
+    - [ ] Search Stock Field
+    - [ ] Stocks List View
+    - [ ] Stock Buy Button
+    - [ ] Stock Amount Field
+    - [ ] Stock Sell Button
   - [ ] Profile page
+    - [ ] Balance
+    - [ ] Net Worth
+    - [ ] Edit Name Button
+    - [ ] Name Field
+    - [ ] Change Password Button
+    - [ ] Change Password Field
